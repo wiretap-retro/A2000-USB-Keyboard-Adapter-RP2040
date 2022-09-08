@@ -19,7 +19,7 @@ This is a USB keyboard adapter I designed a board for to use in the Amiga 2000. 
 * Solder the right angle pin connector. (USB header)
 * Solder the Pi Stamp RP2040 into place. You can solder directly onto the board, or optionally use the male and female headers to socket mount it. I recommend using the male and female pin headers so you can easily pull the RP2040 out if you need to use it again in the future on another project.
 * Solder the USB type-A connector.
-* Solder the vertical USB_BOOT header and reset pin into place.
+* Solder the vertical USB_BOOT header and reset pin into place. You can skip the reset pin if you're soldering a wire directly to the board instead.
 * Solder the two 20-pin machine pin headers to the bottom of the PCB.
 * Solder the 40-pin DIP socket.
 * I recommend checking all solder joints under magnification to ensure everything is connected with no shorts.
