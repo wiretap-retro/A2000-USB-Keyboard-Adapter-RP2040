@@ -35,8 +35,8 @@ First off, a huge thank you to Nine for developing the amigahid-pico, as this de
 
 ## Installation into the Amiga
 1. Gain access to your Amiga 2000 motherboard. This will require removing the top lid, as well as the PSU/3.5/5.25 mezzanine chassis.
-2. Remove the U300 CIA chip and install the keyboard adapter board into it, paying attention to orientation.
-3. Plug the CIA chip into the DIP socket of the adapter, paying attention to orientation.
+2. Remove the U300 CIA chip and install the keyboard adapter board into its place, paying attention to orientation.
+3. Plug the CIA chip into the DIP socket of the keyboard adapter, paying attention to orientation.
 4. Plug your USB cable into the pin header, or USB cable into the USB type-A port.
 5. Install the USB bracket into a spare ISA/Zorro slot.
 6. Connect a wire from the Reset pin on the keyboard adapter PCB to Gary chip Pin #5. I find that a small spring loaded test lead works best for easy install/removal. 
