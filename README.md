@@ -46,6 +46,7 @@ First off, a huge thank you to Nine for developing the amigahid-pico, as this de
 ## Optional Stuff
 * USB HID mouse support is included in Nine's firmware, but none of the mice I used would work with the A500 adapter which is nearly identical in terms of design. I use a DB9 connected OpenLaserMouse anyway, but maybe you'll have better luck testing various mice to see if one works. I know the firmware is still an in-progress project, or maybe I didn't do something right when I compiled the firmware. 
 * Amiga keys are currently mapped to right and left windows keys. Before compiling the firmware, you can modify those keys if necessary at your own discretion.
+* Reset is initiated by Left Ctrl + Left Win + Right Win (CTRL + AMIGA + AMIGA)
 
 ## Miscellaneous
 This board is provided as-is and open source. It does not provide firmware and relies on a different project as linked above. This specific project is untested. Review the design and build/test at your own risk.
