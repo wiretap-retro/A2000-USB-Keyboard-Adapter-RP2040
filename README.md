@@ -1,4 +1,4 @@
-# A2000-USB-Keyboard-Adapter-RP2040
+# A2000 USB Keyboard Adapter RP2040
 A USB keyboard adapter for the Amiga 2000 based on the Pi Stamp RP2040
 
 ![front-pcb](RP2040-A2000-KB.PNG)
