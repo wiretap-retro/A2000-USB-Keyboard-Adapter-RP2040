@@ -6,8 +6,6 @@ A USB keyboard adapter for the Amiga 2000 based on the Pi Stamp RP2040
 ## Intro
 This is a USB keyboard adapter I designed a board for to use in the Amiga 2000. It is based on the amigahid-pico firmware by borb (nine), as well as my other A500 USB adapter. The KiCAD files, Gerbers, and BOM are in this repository. The completed board attaches to the CIA socket and provides a USB inputs for your interface device.
 
-* This has not been built/tested yet. Use at your own risk.
-
 ## Parts
 * PCB: PCB's can be ordered from JLCPCB by uploading the Gerber files, but any PCB house should be able to make these since it is a simple/small design. (PCBway, OSH Park, AllPCB, etc.)
 * Pi Stamp RP2040: https://shop.pimoroni.com/products/rp2040-stamp
