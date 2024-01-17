@@ -52,5 +52,5 @@ If you plan to sell this board, firmware is per the license at: https://github.c
 
 ## Revisions
 * Rev 2 - Latest, fixed floating ground on the level shift logic.
-* Rev 1 - Depreciated.
+* Rev 1 - Adjust layout of chips and ports. Depreciated.
 * Rev 0 - Initial / Depreciated.
