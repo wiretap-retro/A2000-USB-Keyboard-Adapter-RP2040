@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "A2000 RP2040 Stamp Keyboard Adapter"
-Date "2022-08-19"
-Rev "1"
+Date "2024-01-17"
+Rev "2"
 Comp "wiretap"
 Comment1 ""
 Comment2 ""
@@ -284,7 +284,7 @@ Wire Wire Line
 Text GLabel 5050 4950 2    50   Input ~ 0
 KB_RESET_RAW
 Wire Wire Line
-	3400 5050 3400 5500
+	3400 5050 3400 5250
 Text GLabel 5050 4750 2    50   Input ~ 0
 KB_DATA_RAW
 Text GLabel 5050 4850 2    50   Input ~ 0
@@ -779,4 +779,9 @@ F 3 "~" H 6850 1950 50  0001 C CNN
 	1    6850 1950
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3950 5250 3400 5250
+Connection ~ 3400 5250
+Wire Wire Line
+	3400 5250 3400 5500
 $EndSCHEMATC
