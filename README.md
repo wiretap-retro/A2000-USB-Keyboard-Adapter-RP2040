@@ -49,3 +49,8 @@ First off, a huge thank you to Nine for developing the amigahid-pico, as this de
 ## Miscellaneous
 This board is provided as-is and open source. It does not provide firmware and relies on a different project as linked above. This specific project is untested. Review the design and build/test at your own risk.
 If you plan to sell this board, firmware is per the license at: https://github.com/borb/amigahid-pico/
+
+## Revisions
+* Rev 2 - Latest, fixed floating ground on the level shift logic.
+* Rev 1 - Depreciated.
+* Rev 0 - Initial / Depreciated.
