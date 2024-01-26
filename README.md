@@ -47,7 +47,7 @@ First off, a huge thank you to Nine for developing the amigahid-pico, as this de
 * Reset is initiated by Left Ctrl + Left Win + Right Win (CTRL + AMIGA + AMIGA)
 
 ## Miscellaneous
-This board is provided as-is and open source. It does not provide firmware and relies on a different project as linked above. This specific project is untested. Review the design and build/test at your own risk.
+This board is provided as-is and open source. This project is tested and working. It does not provide firmware and relies on a different project for the firmware as linked above. Review the design and build/test at your own risk.
 If you plan to sell this board, firmware is per the license at: https://github.com/borb/amigahid-pico/
 
 ## Revisions
